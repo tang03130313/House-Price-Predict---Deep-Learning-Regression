@@ -1,4 +1,4 @@
-# house price predict Regression
+# House Price Predict - Deep Learning Regression
 ## Prepare
 1. prepare gpu, anaconda
 2. download anaconda
@@ -15,8 +15,9 @@
 5. get model and test.csv
 
 ## Model
-![image](https://github.com/MachineLearningNTUT/regression-t109598033YuehTang-1/blob/main/image/results.png)
+![image](https://github.com/tang03130313/House-Price-Predict-Deep-Learning-Regression/blob/main/image/results.png)
 
 ## Score
-![image](https://github.com/MachineLearningNTUT/regression-t109598033YuehTang-1/blob/main/image/score-1.png)
-![image](https://github.com/MachineLearningNTUT/regression-t109598033YuehTang-1/blob/main/image/score-2.png)
+![image](https://github.com/tang03130313/House-Price-Predict-Deep-Learning-Regression/blob/main/image/score-0.png)
+![image](https://github.com/tang03130313/House-Price-Predict-Deep-Learning-Regression/blob/main/image/score-1.png)
+![image](https://github.com/tang03130313/House-Price-Predict-Deep-Learning-Regression/blob/main/image/score-2.png)
